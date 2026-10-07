@@ -13,4 +13,5 @@ main()
 	a = pow(b, 4) + pow(k, 3);
 	y = pow(log(a), 3) + exp(-x);
 	printf("x=%.2lf y=%.2lf\n",x, y);
+	sistem("pause");
 } 
