@@ -17,4 +17,5 @@ main()
 	scanf("%lf%lf%lf", &x, &y ,&z);
 	b = p_1(x,y) * p_2(x,y,z);
  	printf("%lf\n", b);
+	sistem("pause");
 }
